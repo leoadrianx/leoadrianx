@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Leo Adrian
 
-<!--
-**leoadrianx/leoadrianx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗 Enterprise Software Architect | ERP & Industrial Systems Engineer
 
-Here are some ideas to get you started:
+- 🚀 11+ years of experience across Embedded Systems and Enterprise Backend Development
+- 🧠 Architecting scalable ERP platforms and distributed microservices
+- 🏭 Designed industrial automation & product serialization systems
+- 🔐 Built authentication & identity infrastructures for enterprise applications
+- ⚙ Bridging low-level hardware engineering with high-level backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+
+- Backend: C#, ASP.NET Core, SQL Server
+- Architecture: Microservices, Clean Architecture, RabbitMQ
+- Frontend: Angular
+- Security: OpenIddict, JWT
+- Embedded: Embedded C, FPGA, ATxmega, IoT Systems
+
+🌐 Connect with me
+<!-- LinkedIn: ... -->
+- Email: leoadrianx@gmail.com
+
+⭐ Always open to collaboration on enterprise systems, ERP architecture, and industrial-scale software.
